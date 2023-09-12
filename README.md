@@ -13,6 +13,7 @@ The project consists of the following steps:
 ## 1. Data collection:
  We used a kaggle dataset which can be accessed through this link https://www.kaggle.com/c/twitter-sentiment-analysis2
  <img src = "https://github.com/Farah-DeebaJ/TwitterSentimentAnalysis/blob/main/VisualCharts/comparison.png" alt ="pos_neg chart">
+  <img src = "https://github.com/Farah-DeebaJ/TwitterSentimentAnalysis/blob/main/VisualCharts/compare.png" alt ="pos_neg chart">
 ## 2.  Data preprocessing: 
 This is a paragraph that summarizes the steps involved in preprocessing the input tweet for sentiment analysis:
 
