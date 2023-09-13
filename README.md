@@ -42,10 +42,3 @@ The project requires the following Python packages:
 - matplotlib
 - seaborn
 
-
-## Results
-
-The project achieves the following results:
-
-- The best performing model is the support vector machine with an accuracy of 0.82 on the test set.
-- The sentiment trend shows that the overall sentiment of tweets is fluctuating over time.
