@@ -29,7 +29,7 @@ Preprocessing is the process of modifying the input tweet in a format that can b
 ## 3. Data exploration: 
 We perform some exploratory data analysis on the tweets, such as word frequency, word cloud, sentiment distribution, and n-gram analysis.
 ## 4. Data modeling:
- We train and evaluate different machine learning models for sentiment analysis, such as logistic regression, naive Bayes, support vector machine, and random forest.
+ We train and evaluate different machine learning models for sentiment analysis, such as logistic regression, Naive Bayes.
 
 ## Requirements
 
