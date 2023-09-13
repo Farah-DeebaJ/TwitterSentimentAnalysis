@@ -43,4 +43,4 @@ The project requires the following Python packages:
 - seaborn
 
 ## Note:
-Open to any recommendations or suggestions that could enhance this GitHub project."
+Open to any recommendations or suggestions that could enhance this GitHub project.
